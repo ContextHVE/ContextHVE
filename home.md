@@ -1,0 +1,17 @@
+---
+layout: default
+title: ContextHVE
+---
+
+<div class="post">
+	<h2 class="pageTitle">ContextHVE:</h2>
+	<h2 class="pageTitle">Context-Aware Human Video Editing through Fine-grained Appearance and Context Interaction</h2>
+    <p align="center">
+	<img src="{{ '/assets/img/framework.png' | relative_url }}" alt="">
+    </p>
+	<p>Text-driven diffusion models are thriving in image and video domains, showing notable progress in generation and editing tasks. However, previous work only implements coarse-grained editing through text or image conditions in limited scenes, which fails to meet the complex, personalized requirements such as accurate object maintenance across scenes, role-scene interaction, or human editing in real scenes. To address this issue, we propose ContextHVE (Context-aware Human Video Editing), a framework for fine-grained editing of the human object in the video without fine-tuning.
+
+Specifically, our approach avoids the limitation of spatial control methods, whether these be canny or depth map, allowing for natural editing and even the generalization of the image which is not matched with the original one in terms of size. Through leveraging multiple reference images, we achieve tuning-free preservation - the human object appearance and background details in video-editing context can be enhanced.
+
+Results show that our approach significantly elevates video editing quality and user experience, achieving state-of-the-art results.</p>
+</div>
