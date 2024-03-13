@@ -1,5 +1,5 @@
 title: ContextHVE
-description: Long Form Jekyll theme built with SASS
+description: ContextHVE
 
 url: https://long-haul.netlify.app
 # Only necessary when hosting your site in a sub-directory. Project sites hosted on GitHub Pages are the common use-case of this variable.
@@ -23,8 +23,8 @@ navigation:
       url: /home
     - title: Samples
       url: /samples
-    - title: Code
-      url: /code
+    # - title: Code
+    #   url: /code
 
 # social:
 #     github: brianmaierjr
