@@ -26,7 +26,7 @@ title: ContextHVE
     <tr> <!-- 表格的另一行 -->
         <td> <!-- 表格的单元格 -->
             <video width="912" height="512" controls>
-                <source src="./assets/img/recon/060000-clip_0000011001_gt_clip_0000011001_gt_good.mp4" type="video/mp4">
+                <source src="/assets/img/recon/060000-clip_0000011001_gt_clip_0000011001_gt_good.mp4" type="video/mp4">
                 您的浏览器不支持视频标签。
             </video>
         </td>
@@ -34,7 +34,7 @@ title: ContextHVE
     <tr> <!-- 表格的另一行 -->
         <td> <!-- 表格的单元格 -->
             <video width="912" height="512" controls>
-                <source src="./assets/img/recon/060000-clip_0000011134_gt_clip_0000011134_gt_good.mp4" type="video/mp4">
+                <source src="/assets/img/recon/060000-clip_0000011134_gt_clip_0000011134_gt_good.mp4" type="video/mp4">
                 您的浏览器不支持视频标签。
             </video>
         </td>
@@ -42,7 +42,7 @@ title: ContextHVE
     <tr> <!-- 表格的另一行 -->
         <td> <!-- 表格的单元格 -->
             <video width="912" height="512" controls>
-                <source src="./assets/img/recon/060000-clip_0000011164_gt_clip_0000011164_gt_good.mp4" type="video/mp4">
+                <source src="/assets/img/recon/060000-clip_0000011164_gt_clip_0000011164_gt_good.mp4" type="video/mp4">
                 您的浏览器不支持视频标签。
             </video>
         </td>
@@ -50,7 +50,7 @@ title: ContextHVE
     <tr> <!-- 表格的另一行 -->
         <td> <!-- 表格的单元格 -->
             <video width="912" height="512" controls>
-                <source src="./assets/img/recon/060000-clip_0000011165_gt_clip_0000011165_gt_half.mp4" type="video/mp4">
+                <source src="/assets/img/recon/060000-clip_0000011165_gt_clip_0000011165_gt_half.mp4" type="video/mp4">
                 您的浏览器不支持视频标签。
             </video>
         </td>
@@ -66,7 +66,7 @@ title: ContextHVE
     <tr> <!-- 表格的另一行 -->
         <td> <!-- 表格的单元格 -->
             <video width="912" height="512" controls>
-                <source src="./assets/img/recon/060000-clip_0000011186_gt_clip_0000011186_gt_good.mp4" type="video/mp4">
+                <source src="/assets/img/recon/060000-clip_0000011186_gt_clip_0000011186_gt_good.mp4" type="video/mp4">
                 您的浏览器不支持视频标签。
             </video>
         </td>
@@ -74,7 +74,7 @@ title: ContextHVE
     <tr> <!-- 表格的另一行 -->
         <td> <!-- 表格的单元格 -->
             <video width="912" height="512" controls>
-                <source src="./assets/img/recon/060000-clip_0000011192_gt_clip_0000011192_gt_half.mp4" type="video/mp4">
+                <source src="/assets/img/recon/060000-clip_0000011192_gt_clip_0000011192_gt_half.mp4" type="video/mp4">
                 您的浏览器不支持视频标签。
             </video>
         </td>
