@@ -8,7 +8,8 @@ title: Editing
 	<p></p>
 	<table border="0"> <!-- 表格边框设置为1 -->
 	<tr>Editing the video with extra condition.This result primarily reflects the ability to complete the mask region and to maintain the original characteristics of the scene/person in the original video. Here, the characters in the original video are directly used to complete the video. </tr>
-
+<tr> The first section primarily demonstrates the insertion of corresponding-sized characters based on different mask sizes into simple outdoor scenes, maintaining consistency with the environment. The second section showcases that the methodology can also perform a certain level of completion in complex indoor scenarios. However, some artifacts can be observed due to the lack of high-frequency details in the mask area.
+	</tr>
     <tr> <!-- 表格的一行 -->
         <th style="width: 456px;">Human to be Inserted</th> <!-- 表头单元格 -->
         <th style="width: 456px;">Pose</th> <!-- 表头单元格 -->
@@ -79,4 +80,3 @@ title: Editing
 </table>
 
 </div>
-
