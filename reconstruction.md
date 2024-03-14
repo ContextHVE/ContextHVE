@@ -11,7 +11,7 @@ title: ContextHVE
 	<p></p>
 	<table border="0"> <!-- 表格边框设置为1 -->
 	<tr></tr>
-    <tr>Editing the video with original condition.This result primarily reflects the ability to complete the mask region and to maintain the original characteristics of the scene/person in the original video. Here, the characters in the original video are directly used to complete the video. </tr>
+    <tr>Editing the video with original condition.This result primarily reflects the ability to complete the mask region and to maintain the original characteristics of the scene/person in the original video. Here, the characters in the original video are directly used to complete the video. Note that, unlike the method of incorporating original image priors into noise when initializing the noise, our initial noise is entirely randomly generated. This means that the condition image priors are completely derived from ContextNet, and this is also the reason for the addition of the Reconstruction experiment.</tr>
 
     <tr> <!-- 表格的一行 -->
         <th style="width: 456px;">Ground Truth</th> <!-- 表头单元格 -->

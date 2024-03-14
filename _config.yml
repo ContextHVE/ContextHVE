@@ -25,7 +25,7 @@ navigation:
       url: /reconstruction
     - title: Editing
       url: /edit
-    - title: Failure
+    - title: Limits
       url: /failure
     - title: Code
       url: /code
