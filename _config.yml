@@ -27,6 +27,8 @@ navigation:
       url: /edit
     - title: Failure
       url: /failure
+    - title: Code
+      url: /code
 
 # social:
 #     github: brianmaierjr
