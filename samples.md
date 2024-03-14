@@ -5,6 +5,9 @@ title: ContextHVE
 
 <div class="post">
 	<h2 class="pageTitle">Demos</h2>
+    <p align="center">
+	<img src="{{ '/assets/img/pipeline.jpg' | relative_url }}" alt="">
+    </p>
 	<p></p>
 	<table border="0"> <!-- 表格边框设置为1 -->
 	<tr>1. Sample 1: Video Reconstruction</tr>
