@@ -21,10 +21,12 @@ paginate: 5
 navigation:
     - title: Home
       url: /home
-    - title: Samples
-      url: /samples
-    - title: Code
-      url: /code
+    - title: Reconstruction
+      url: /reconstruction
+    - title: Editing
+      url: /edit
+    - title: Failure
+      url: /failure
 
 # social:
 #     github: brianmaierjr
