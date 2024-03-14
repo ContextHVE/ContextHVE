@@ -5,9 +5,6 @@ title: ContextHVE
 
 <div class="post">
 	<h2 class="pageTitle">Video Editing Failure Cases Demos</h2>
-    <p align="center">
-	<img src="{{ '/assets/img/pipeline.jpg' | relative_url }}" alt="">
-    </p>
 	<p>Although our proposed model is able to retain the input conditions and generate high-quality edited videos naturally, it is not capable of performing well in certain scenarios.</p>
 	<table border="0"> <!-- 表格边框设置为1 -->
 	<tr> Case 1: Motion not aligned with relative position. This situation generally occurs when there is an overly dramatic change in the image while the action information is too small (character too small or action too small), leading to a mismatch between the content and the control conditions. </tr>
