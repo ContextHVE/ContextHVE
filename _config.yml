@@ -26,7 +26,7 @@ navigation:
     - title: Editing
       url: /edit
     - title: Limits
-      url: /failure
+      url: /limits
     - title: Code
       url: /code
 
